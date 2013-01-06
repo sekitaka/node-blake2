@@ -10,7 +10,7 @@
     "scripts": {
         "install": "node-gyp rebuild"
     },
-    "homepage": "https://github.com/sekitaka_1214/node-blake2",
+    "homepage": "https://github.com/sekitaka/node-blake2",
     "gypfile": true,
     "license": "MIT"
 }
