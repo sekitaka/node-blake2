@@ -1,0 +1,17 @@
+{
+    "name": "node-blake2",
+    "version": "0.0.1",
+    "description": "Blake2 node binding.",
+    "author": {
+        "name": "Takashi seki",
+        "email": "sekitaka.tech@gmail.com"
+    },
+    "main": "./index",
+    "scripts": {
+        "install": "node-gyp rebuild"
+    },
+    "homepage": "https://github.com/sekitaka_1214/node-blake2",
+    "gypfile": true,
+    "license": "MIT"
+}
+
